@@ -4,4 +4,4 @@ this game was created for a work test which I entered in 2017. I thought about u
 
 # How to move
 
-Use the WASD keys on the keyboard to move forward, backward and to the sides. You can use an xbox controller too.
+Use the WASD keys on the keyboard to move forward, backward and to the sides. You can use an xbox control too.
